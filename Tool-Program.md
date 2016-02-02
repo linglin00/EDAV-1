@@ -1,5 +1,7 @@
 
 The test image
-![output gif](Tool-Program.png)
+![output image](Tool-Program.png)
 
-https://plot.ly/~linglin00/2.embed
+Dynamic image
+![output html](https://plot.ly/~linglin00/2.embed)
+
