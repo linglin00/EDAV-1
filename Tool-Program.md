@@ -5,8 +5,10 @@ Pie chart for Major
 Boxplot of #Tools vs. Program
 ![output image](Tool-Program.png)
 
-#Tools vs. Average Proficiency of 6 languages for every major
+Tools vs. Average Proficiency of 6 languages for every major
 ![output image](Proficiency.png)
 
-checkout https://plot.ly/~linglin00/2.embed
+checkout 
+https://plot.ly/~linglin00/2.embed
+https://plot.ly/~linglin00/4.embed
 
